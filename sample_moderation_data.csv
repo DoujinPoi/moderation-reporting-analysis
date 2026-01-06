@@ -1,0 +1,301 @@
+report_id,content_type,violation_category,action_taken,report_date
+1,Post,Hate Speech,No Action,2025-11-27 17:42:55.750305
+2,Comment,Hate Speech,Warning Issued,2025-11-17 17:42:55.750331
+3,Post,Harassment,Removed,2025-10-16 17:42:55.750334
+4,Post,Spam,No Action,2025-12-30 17:42:55.750336
+5,Post,Nudity,No Action,2025-12-28 17:42:55.750338
+6,Comment,Misinformation,Warning Issued,2025-12-21 17:42:55.750342
+7,Post,Spam,Removed,2025-10-13 17:42:55.750344
+8,Post,Misinformation,Removed,2025-12-27 17:42:55.750347
+9,Post,Harassment,No Action,2025-10-11 17:42:55.750354
+10,Comment,Harassment,Removed,2025-11-18 17:42:55.750356
+11,Post,Hate Speech,No Action,2025-12-24 17:42:55.750358
+12,Post,Nudity,Removed,2025-12-05 17:42:55.750359
+13,Post,Misinformation,No Action,2025-10-10 17:42:55.750361
+14,Post,Spam,Removed,2025-11-27 17:42:55.750362
+15,Comment,Harassment,Warning Issued,2025-12-19 17:42:55.750364
+16,Post,Hate Speech,Removed,2025-12-16 17:42:55.750365
+17,Comment,Hate Speech,Removed,2025-11-05 17:42:55.750366
+18,Comment,Misinformation,Warning Issued,2025-12-20 17:42:55.750368
+19,Comment,Harassment,Removed,2025-10-13 17:42:55.750369
+20,Post,Nudity,Warning Issued,2025-12-11 17:42:55.750371
+21,Comment,Harassment,Removed,2025-12-05 17:42:55.750372
+22,Post,Misinformation,No Action,2025-11-24 17:42:55.750373
+23,Comment,Misinformation,No Action,2025-12-08 17:42:55.750375
+24,Comment,Harassment,Removed,2025-11-16 17:42:55.750376
+25,Comment,Misinformation,Removed,2025-10-19 17:42:55.750377
+26,Comment,Harassment,Removed,2025-12-29 17:42:55.750379
+27,Comment,Spam,No Action,2025-11-22 17:42:55.750381
+28,Comment,Harassment,Removed,2025-11-14 17:42:55.750382
+29,Comment,Harassment,No Action,2026-01-05 17:42:55.750384
+30,Comment,Misinformation,Warning Issued,2025-10-22 17:42:55.750385
+31,Post,Misinformation,No Action,2025-12-18 17:42:55.750386
+32,Post,Hate Speech,No Action,2025-10-13 17:42:55.750388
+33,Comment,Hate Speech,Warning Issued,2025-11-09 17:42:55.750389
+34,Comment,Spam,No Action,2025-10-12 17:42:55.750391
+35,Comment,Hate Speech,Removed,2025-10-28 17:42:55.750393
+36,Post,Harassment,Removed,2025-12-27 17:42:55.750394
+37,Comment,Misinformation,No Action,2025-12-31 17:42:55.750395
+38,Post,Hate Speech,Removed,2025-12-15 17:42:55.750397
+39,Post,Hate Speech,No Action,2025-11-17 17:42:55.750399
+40,Post,Spam,Removed,2025-10-21 17:42:55.750400
+41,Post,Spam,Removed,2025-12-24 17:42:55.750401
+42,Post,Harassment,No Action,2025-11-30 17:42:55.750403
+43,Comment,Misinformation,Removed,2025-11-16 17:42:55.750404
+44,Comment,Spam,No Action,2025-12-16 17:42:55.750405
+45,Comment,Hate Speech,Removed,2025-11-20 17:42:55.750407
+46,Comment,Misinformation,Removed,2025-10-18 17:42:55.750408
+47,Comment,Misinformation,Warning Issued,2025-10-19 17:42:55.750409
+48,Post,Hate Speech,Warning Issued,2025-10-25 17:42:55.750411
+49,Comment,Spam,No Action,2025-11-24 17:42:55.750412
+50,Comment,Hate Speech,Warning Issued,2025-10-17 17:42:55.750413
+51,Post,Misinformation,No Action,2026-01-04 17:42:55.750414
+52,Comment,Nudity,Warning Issued,2025-12-28 17:42:55.750416
+53,Post,Nudity,Removed,2025-10-11 17:42:55.750417
+54,Comment,Harassment,No Action,2025-12-15 17:42:55.750419
+55,Post,Hate Speech,No Action,2025-11-01 17:42:55.750420
+56,Comment,Hate Speech,Removed,2025-12-14 17:42:55.750421
+57,Comment,Harassment,No Action,2025-12-01 17:42:55.750423
+58,Post,Harassment,No Action,2025-12-14 17:42:55.750424
+59,Post,Harassment,Warning Issued,2025-11-29 17:42:55.750425
+60,Post,Misinformation,No Action,2025-11-19 17:42:55.750427
+61,Post,Hate Speech,Removed,2025-11-07 17:42:55.750428
+62,Post,Misinformation,Warning Issued,2025-10-13 17:42:55.750429
+63,Post,Harassment,Warning Issued,2025-12-21 17:42:55.750430
+64,Post,Hate Speech,Removed,2025-10-17 17:42:55.750432
+65,Post,Misinformation,Removed,2025-12-23 17:42:55.750433
+66,Comment,Misinformation,Warning Issued,2025-11-22 17:42:55.750435
+67,Comment,Harassment,No Action,2025-11-26 17:42:55.750436
+68,Post,Hate Speech,Warning Issued,2025-12-23 17:42:55.750437
+69,Comment,Harassment,Removed,2025-12-20 17:42:55.750439
+70,Comment,Hate Speech,Warning Issued,2025-12-25 17:42:55.750440
+71,Comment,Nudity,Removed,2026-01-06 17:42:55.750441
+72,Comment,Spam,Warning Issued,2025-12-29 17:42:55.750443
+73,Post,Spam,No Action,2025-11-30 17:42:55.750444
+74,Comment,Spam,Warning Issued,2025-12-07 17:42:55.750445
+75,Post,Harassment,Warning Issued,2026-01-04 17:42:55.750447
+76,Comment,Nudity,Removed,2025-11-01 17:42:55.750448
+77,Comment,Hate Speech,Removed,2025-12-12 17:42:55.750449
+78,Comment,Misinformation,Removed,2025-12-02 17:42:55.750451
+79,Post,Hate Speech,Warning Issued,2025-11-21 17:42:55.750452
+80,Comment,Misinformation,No Action,2025-11-13 17:42:55.750453
+81,Post,Hate Speech,Removed,2025-11-01 17:42:55.750455
+82,Comment,Nudity,Removed,2025-12-08 17:42:55.750456
+83,Post,Misinformation,Warning Issued,2025-10-25 17:42:55.750457
+84,Comment,Harassment,Removed,2025-11-21 17:42:55.750459
+85,Post,Hate Speech,No Action,2025-11-22 17:42:55.750460
+86,Post,Hate Speech,No Action,2025-10-18 17:42:55.750531
+87,Comment,Misinformation,Removed,2025-10-25 17:42:55.750533
+88,Post,Harassment,Removed,2025-12-29 17:42:55.750534
+89,Comment,Harassment,Warning Issued,2025-10-30 17:42:55.750535
+90,Comment,Nudity,No Action,2025-12-08 17:42:55.750537
+91,Comment,Harassment,No Action,2025-12-26 17:42:55.750538
+92,Comment,Harassment,Removed,2025-11-04 17:42:55.750540
+93,Comment,Harassment,Warning Issued,2025-10-16 17:42:55.750541
+94,Comment,Spam,No Action,2026-01-02 17:42:55.750543
+95,Comment,Nudity,No Action,2025-11-09 17:42:55.750544
+96,Comment,Hate Speech,Warning Issued,2025-10-09 17:42:55.750545
+97,Comment,Misinformation,Warning Issued,2025-11-09 17:42:55.750547
+98,Comment,Hate Speech,No Action,2025-12-22 17:42:55.750548
+99,Comment,Nudity,No Action,2025-11-23 17:42:55.750549
+100,Post,Misinformation,Warning Issued,2025-11-01 17:42:55.750551
+101,Post,Nudity,No Action,2025-10-31 17:42:55.750552
+102,Comment,Harassment,Removed,2025-10-25 17:42:55.750553
+103,Comment,Misinformation,Removed,2025-11-15 17:42:55.750555
+104,Comment,Harassment,Warning Issued,2025-10-23 17:42:55.750556
+105,Comment,Hate Speech,Warning Issued,2025-11-19 17:42:55.750557
+106,Comment,Hate Speech,Warning Issued,2025-10-14 17:42:55.750559
+107,Comment,Misinformation,Removed,2025-11-29 17:42:55.750560
+108,Comment,Misinformation,No Action,2025-11-01 17:42:55.750561
+109,Comment,Nudity,Removed,2025-12-03 17:42:55.750563
+110,Post,Nudity,No Action,2025-11-29 17:42:55.750564
+111,Comment,Harassment,Removed,2025-12-19 17:42:55.750565
+112,Post,Misinformation,No Action,2025-10-30 17:42:55.750567
+113,Comment,Hate Speech,Removed,2025-11-08 17:42:55.750568
+114,Comment,Nudity,Warning Issued,2025-10-09 17:42:55.750569
+115,Post,Nudity,Removed,2025-12-03 17:42:55.750571
+116,Comment,Hate Speech,No Action,2025-11-02 17:42:55.750572
+117,Post,Nudity,Removed,2025-10-13 17:42:55.750574
+118,Comment,Harassment,Removed,2025-10-15 17:42:55.750575
+119,Comment,Misinformation,Removed,2025-12-08 17:42:55.750576
+120,Post,Hate Speech,Warning Issued,2025-10-12 17:42:55.750577
+121,Comment,Misinformation,Removed,2025-12-23 17:42:55.750579
+122,Post,Nudity,Warning Issued,2025-10-21 17:42:55.750581
+123,Comment,Nudity,Warning Issued,2025-11-07 17:42:55.750582
+124,Post,Hate Speech,Removed,2025-11-22 17:42:55.750584
+125,Post,Harassment,Removed,2025-12-05 17:42:55.750585
+126,Comment,Spam,Removed,2025-11-13 17:42:55.750586
+127,Comment,Hate Speech,No Action,2025-12-01 17:42:55.750587
+128,Post,Spam,Removed,2025-12-09 17:42:55.750589
+129,Comment,Spam,Warning Issued,2025-11-16 17:42:55.750590
+130,Comment,Harassment,Removed,2025-12-28 17:42:55.750592
+131,Comment,Spam,No Action,2025-12-13 17:42:55.750593
+132,Post,Spam,Removed,2025-10-23 17:42:55.750595
+133,Post,Harassment,No Action,2026-01-04 17:42:55.750596
+134,Post,Spam,No Action,2025-11-22 17:42:55.750597
+135,Post,Spam,Removed,2026-01-02 17:42:55.750599
+136,Post,Spam,Warning Issued,2025-12-28 17:42:55.750600
+137,Post,Hate Speech,No Action,2026-01-02 17:42:55.750602
+138,Post,Hate Speech,Removed,2025-11-19 17:42:55.750603
+139,Post,Hate Speech,Removed,2025-10-09 17:42:55.750604
+140,Post,Harassment,Warning Issued,2026-01-03 17:42:55.750606
+141,Comment,Nudity,No Action,2025-11-20 17:42:55.750607
+142,Post,Spam,No Action,2025-11-23 17:42:55.750608
+143,Comment,Spam,Removed,2025-11-02 17:42:55.750609
+144,Comment,Harassment,Removed,2025-12-24 17:42:55.750611
+145,Comment,Spam,Warning Issued,2025-11-01 17:42:55.750612
+146,Post,Hate Speech,Warning Issued,2025-12-18 17:42:55.750613
+147,Post,Nudity,No Action,2025-12-11 17:42:55.750615
+148,Post,Misinformation,No Action,2026-01-03 17:42:55.750616
+149,Post,Spam,Removed,2025-11-04 17:42:55.750617
+150,Comment,Hate Speech,No Action,2025-12-22 17:42:55.750619
+151,Post,Misinformation,Warning Issued,2025-11-04 17:42:55.750621
+152,Post,Nudity,Warning Issued,2025-12-02 17:42:55.750622
+153,Post,Misinformation,Removed,2025-12-04 17:42:55.750623
+154,Post,Hate Speech,Warning Issued,2025-12-23 17:42:55.750624
+155,Post,Misinformation,Warning Issued,2025-12-08 17:42:55.750626
+156,Comment,Harassment,Warning Issued,2025-10-12 17:42:55.750627
+157,Post,Misinformation,Warning Issued,2025-11-15 17:42:55.750628
+158,Comment,Spam,Removed,2025-10-10 17:42:55.750630
+159,Post,Spam,Removed,2025-10-31 17:42:55.750631
+160,Comment,Harassment,No Action,2025-12-24 17:42:55.750633
+161,Post,Hate Speech,Warning Issued,2025-11-23 17:42:55.750634
+162,Post,Spam,No Action,2025-11-29 17:42:55.750635
+163,Comment,Nudity,Removed,2025-10-26 17:42:55.750637
+164,Comment,Spam,Removed,2025-11-24 17:42:55.750638
+165,Comment,Spam,Removed,2025-11-28 17:42:55.750639
+166,Post,Hate Speech,Removed,2026-01-06 17:42:55.750640
+167,Comment,Misinformation,Removed,2025-12-10 17:42:55.750642
+168,Post,Spam,Removed,2025-10-17 17:42:55.750643
+169,Post,Harassment,Removed,2025-10-16 17:42:55.750644
+170,Comment,Misinformation,Warning Issued,2025-10-22 17:42:55.750646
+171,Comment,Nudity,No Action,2025-12-13 17:42:55.750647
+172,Post,Hate Speech,Removed,2025-12-08 17:42:55.750648
+173,Post,Nudity,Warning Issued,2025-11-22 17:42:55.750649
+174,Comment,Misinformation,Warning Issued,2025-10-17 17:42:55.750651
+175,Comment,Misinformation,No Action,2025-10-18 17:42:55.750652
+176,Comment,Misinformation,Removed,2025-10-10 17:42:55.750654
+177,Post,Nudity,No Action,2025-11-25 17:42:55.750655
+178,Post,Misinformation,Removed,2025-12-25 17:42:55.750657
+179,Post,Nudity,Warning Issued,2025-11-25 17:42:55.750658
+180,Post,Misinformation,Warning Issued,2025-10-08 17:42:55.750659
+181,Post,Harassment,Warning Issued,2025-12-28 17:42:55.750661
+182,Post,Misinformation,Warning Issued,2025-12-09 17:42:55.750662
+183,Comment,Nudity,No Action,2025-11-12 17:42:55.750663
+184,Post,Spam,Removed,2025-11-30 17:42:55.750665
+185,Post,Misinformation,Removed,2025-11-28 17:42:55.750666
+186,Post,Spam,No Action,2025-11-02 17:42:55.750668
+187,Comment,Harassment,Removed,2025-10-25 17:42:55.750669
+188,Post,Hate Speech,Warning Issued,2025-10-16 17:42:55.750670
+189,Post,Harassment,Removed,2025-11-06 17:42:55.750672
+190,Comment,Misinformation,Warning Issued,2025-10-22 17:42:55.750673
+191,Post,Spam,No Action,2025-12-01 17:42:55.750674
+192,Post,Spam,Removed,2025-11-15 17:42:55.750675
+193,Post,Nudity,No Action,2025-10-20 17:42:55.750677
+194,Post,Spam,Removed,2025-11-19 17:42:55.750678
+195,Post,Nudity,Warning Issued,2025-11-02 17:42:55.750679
+196,Comment,Hate Speech,No Action,2025-11-04 17:42:55.750681
+197,Comment,Misinformation,Removed,2025-11-02 17:42:55.750682
+198,Comment,Nudity,Warning Issued,2026-01-03 17:42:55.750683
+199,Post,Hate Speech,No Action,2025-10-24 17:42:55.750685
+200,Post,Spam,No Action,2026-01-06 17:42:55.750686
+201,Post,Spam,Removed,2025-12-12 17:42:55.750687
+202,Comment,Hate Speech,Removed,2025-11-08 17:42:55.750690
+203,Post,Spam,Removed,2025-12-06 17:42:55.750691
+204,Post,Hate Speech,Warning Issued,2025-12-22 17:42:55.750693
+205,Comment,Nudity,Removed,2025-11-09 17:42:55.750694
+206,Post,Nudity,No Action,2025-10-16 17:42:55.750695
+207,Comment,Hate Speech,No Action,2025-10-20 17:42:55.750696
+208,Comment,Nudity,Removed,2025-10-08 17:42:55.750698
+209,Comment,Nudity,Removed,2025-12-07 17:42:55.750699
+210,Post,Nudity,No Action,2025-10-20 17:42:55.750700
+211,Post,Harassment,Warning Issued,2026-01-04 17:42:55.750702
+212,Post,Misinformation,Removed,2025-11-07 17:42:55.750703
+213,Post,Spam,Removed,2025-11-26 17:42:55.750704
+214,Post,Harassment,No Action,2026-01-03 17:42:55.750706
+215,Post,Nudity,Removed,2025-12-13 17:42:55.750707
+216,Post,Hate Speech,Warning Issued,2025-11-08 17:42:55.750708
+217,Comment,Nudity,No Action,2025-11-14 17:42:55.750710
+218,Post,Misinformation,Removed,2025-10-29 17:42:55.750711
+219,Comment,Nudity,No Action,2025-10-21 17:42:55.750712
+220,Post,Hate Speech,Removed,2025-12-23 17:42:55.750713
+221,Post,Misinformation,Removed,2025-11-03 17:42:55.750715
+222,Post,Nudity,Removed,2025-12-22 17:42:55.750716
+223,Comment,Misinformation,Warning Issued,2025-12-09 17:42:55.750717
+224,Comment,Spam,Warning Issued,2025-10-25 17:42:55.750719
+225,Comment,Spam,No Action,2025-11-17 17:42:55.750720
+226,Comment,Nudity,Removed,2025-11-24 17:42:55.750721
+227,Post,Misinformation,Removed,2025-12-02 17:42:55.750722
+228,Comment,Hate Speech,Warning Issued,2026-01-02 17:42:55.750724
+229,Post,Nudity,Removed,2025-11-19 17:42:55.750725
+230,Post,Spam,Warning Issued,2025-12-17 17:42:55.750726
+231,Comment,Spam,Removed,2025-10-31 17:42:55.750728
+232,Comment,Nudity,No Action,2025-10-26 17:42:55.750729
+233,Comment,Misinformation,Removed,2025-10-09 17:42:55.750730
+234,Comment,Spam,Removed,2025-12-23 17:42:55.750733
+235,Comment,Misinformation,Warning Issued,2025-12-08 17:42:55.750735
+236,Comment,Spam,Removed,2025-11-19 17:42:55.750736
+237,Comment,Spam,Removed,2025-10-27 17:42:55.750737
+238,Comment,Harassment,Warning Issued,2025-12-19 17:42:55.750739
+239,Post,Spam,No Action,2025-11-09 17:42:55.750740
+240,Comment,Hate Speech,No Action,2025-12-20 17:42:55.750742
+241,Comment,Nudity,Warning Issued,2026-01-04 17:42:55.750743
+242,Post,Nudity,Warning Issued,2025-10-22 17:42:55.750744
+243,Comment,Misinformation,Warning Issued,2025-10-15 17:42:55.750746
+244,Post,Spam,Warning Issued,2025-10-09 17:42:55.750747
+245,Post,Hate Speech,Warning Issued,2025-12-01 17:42:55.750748
+246,Comment,Misinformation,No Action,2025-10-11 17:42:55.750750
+247,Post,Harassment,No Action,2025-12-19 17:42:55.750751
+248,Post,Misinformation,Warning Issued,2025-12-18 17:42:55.750752
+249,Post,Misinformation,Removed,2026-01-03 17:42:55.750754
+250,Post,Spam,Warning Issued,2025-10-31 17:42:55.750755
+251,Comment,Harassment,Removed,2025-11-23 17:42:55.750756
+252,Post,Misinformation,Warning Issued,2025-12-26 17:42:55.750758
+253,Comment,Hate Speech,Warning Issued,2025-10-22 17:42:55.750759
+254,Post,Hate Speech,No Action,2025-11-04 17:42:55.750761
+255,Post,Nudity,Removed,2025-12-25 17:42:55.750762
+256,Post,Harassment,Removed,2025-10-16 17:42:55.750763
+257,Post,Harassment,No Action,2025-11-02 17:42:55.750765
+258,Comment,Nudity,No Action,2025-11-13 17:42:55.750766
+259,Comment,Misinformation,No Action,2025-11-01 17:42:55.750767
+260,Post,Harassment,No Action,2025-12-19 17:42:55.750769
+261,Post,Hate Speech,Removed,2025-10-24 17:42:55.750770
+262,Comment,Hate Speech,Removed,2025-11-20 17:42:55.750771
+263,Post,Spam,Warning Issued,2025-12-08 17:42:55.750773
+264,Post,Harassment,Warning Issued,2025-10-15 17:42:55.750774
+265,Post,Misinformation,No Action,2025-11-16 17:42:55.750775
+266,Comment,Nudity,No Action,2025-10-26 17:42:55.750777
+267,Comment,Nudity,No Action,2025-10-21 17:42:55.750778
+268,Comment,Misinformation,Warning Issued,2025-10-30 17:42:55.750779
+269,Post,Spam,Warning Issued,2025-12-16 17:42:55.750781
+270,Post,Nudity,Warning Issued,2025-10-23 17:42:55.750782
+271,Comment,Harassment,Warning Issued,2025-10-31 17:42:55.750784
+272,Comment,Spam,Warning Issued,2025-12-14 17:42:55.750785
+273,Comment,Harassment,Warning Issued,2025-12-18 17:42:55.750786
+274,Comment,Hate Speech,Warning Issued,2025-11-09 17:42:55.750788
+275,Post,Spam,No Action,2025-12-26 17:42:55.750789
+276,Comment,Nudity,No Action,2025-10-19 17:42:55.750790
+277,Post,Spam,No Action,2025-12-18 17:42:55.750792
+278,Comment,Spam,No Action,2025-10-26 17:42:55.750793
+279,Post,Spam,Warning Issued,2025-10-17 17:42:55.750794
+280,Comment,Spam,Removed,2025-11-24 17:42:55.750796
+281,Comment,Harassment,Warning Issued,2025-12-13 17:42:55.750797
+282,Comment,Hate Speech,Removed,2025-12-04 17:42:55.750798
+283,Comment,Misinformation,No Action,2025-12-14 17:42:55.750800
+284,Post,Spam,Warning Issued,2025-11-01 17:42:55.750801
+285,Comment,Nudity,No Action,2025-10-12 17:42:55.750802
+286,Post,Spam,Warning Issued,2025-12-12 17:42:55.750804
+287,Post,Nudity,No Action,2025-11-22 17:42:55.750806
+288,Post,Harassment,Removed,2025-12-26 17:42:55.750807
+289,Post,Nudity,Removed,2025-10-17 17:42:55.750808
+290,Comment,Misinformation,Removed,2026-01-02 17:42:55.750810
+291,Post,Hate Speech,Warning Issued,2025-10-09 17:42:55.750811
+292,Post,Nudity,Removed,2025-10-16 17:42:55.750812
+293,Post,Nudity,Warning Issued,2025-11-19 17:42:55.750814
+294,Comment,Hate Speech,Removed,2026-01-03 17:42:55.750815
+295,Comment,Misinformation,Removed,2025-11-23 17:42:55.750816
+296,Comment,Spam,Warning Issued,2025-10-12 17:42:55.750818
+297,Comment,Nudity,Warning Issued,2025-11-23 17:42:55.750819
+298,Post,Hate Speech,Removed,2025-11-15 17:42:55.750820
+299,Post,Harassment,Warning Issued,2025-12-01 17:42:55.750822
+300,Comment,Hate Speech,Removed,2025-12-27 17:42:55.750823
